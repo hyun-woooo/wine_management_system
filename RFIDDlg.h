@@ -8,6 +8,8 @@
 #include <mysql.h>
 #include <thread>
 
+// 규원이가 바꾼 내용 
+	
 // CRFIDDlg 대화 상자
 class CRFIDDlg : public CDialogEx
 {
